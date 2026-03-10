@@ -35,6 +35,8 @@ cd simple-loan-management-system
 
 ### 2. Configure database connection
 
+edit connection at /src/main/webapp/WEB-INF/applicationContext.xml
+
 ### 3. Import the database schema
 
 Import the schema located at:
