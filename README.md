@@ -29,7 +29,7 @@ A simple loan management system that allows users to submit loan requests, proce
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/simple-loan-management-system.git
+git clone https://github.com/Pangestufp/sistem-peminjaman-sederhana.git
 cd simple-loan-management-system
 ```
 
@@ -48,13 +48,6 @@ into your MySQL database.
 ### 4. Run the backend
 
 ### 5. Run the frontend
-
-Run the Flutter application:
-
-```bash
-flutter pub get
-flutter run
-```
 
 ## Notes
 
